@@ -1,0 +1,16 @@
+{
+  "name": "MedEspañol",
+  "short_name": "MedEspañol",
+  "description": "Medical Spanish for Residents",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020817",
+  "theme_color": "#020817",
+  "icons": [
+    {
+      "src": "/stethoscope.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
